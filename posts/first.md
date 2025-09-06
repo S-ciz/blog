@@ -1,6 +1,5 @@
 ---
-title: Post one edited
+title: The world is yours to have
 date: 2025-09-06
 ---
-
-This is my first blog post using Netlify CMS 🎉
+If this world were mine
